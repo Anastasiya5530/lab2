@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Obulhov_lab_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Obulhov_lab_2.cpp
+C:\Users\Xiaomi\source\repos\Obulhov_lab_2\Obulhov_lab_2.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Obulhov_lab_2.vcxproj -> C:\Users\Xiaomi\source\repos\Obulhov_lab_2\Debug\Obukhov_lab_2.exe
